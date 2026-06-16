@@ -1,2 +1,2 @@
 # food-arena
-A food delivery service that provides value for both the store & restaurants owners and  to the consumers.
+A food delivery service that provides value to both stores & restaurants owners and to their customers.
